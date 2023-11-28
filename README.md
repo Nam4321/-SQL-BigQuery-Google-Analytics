@@ -1,10 +1,10 @@
-## I. Introduction
+# I. Introduction
 This project contains an eCommerce dataset that I will explore using SQL on Google BigQuery. The dataset is based on the Google Analytics public dataset and contains data from an eCommerce website.
 
-## II. Exploring the Dataset
+# II. Exploring the Dataset
 In this project, I will write 08 query in Bigquery base on Google Analytics dataset
 
-Query 01: calculate total visit, pageview, transaction for Jan, Feb and March 2017 (order by month)
+## Query 01: calculate total visit, pageview, transaction for Jan, Feb and March 2017 (order by month)
 
 
 V. Conclusion
